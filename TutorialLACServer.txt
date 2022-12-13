@@ -1,0 +1,25 @@
+Primeiros Passos:
+
+|wget https://cdn.discordapp.com/attachments/793513101495762944/1052346982884196422/lacserver.sh
+|chmod +x lacserver.sh
+|./lacserver.sh
+
+- Diretorios
+
+[EDITAR HOST]
+
+cd /root/.config/unity3d/MA/LAC/
+
+[EDITAR MAPA]
+
+cd /root/.config/unity3d/MA/LAC/editor
+
+[LIGAR SERVER]
+
+cd /home/lacserver
+
+- Comandos
+
+[LIGAR SERVER]
+
+./LAC_Linux_v1.6.2.x86_64 -batchmode -nographics
