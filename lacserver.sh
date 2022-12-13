@@ -7,7 +7,7 @@ echo 'Instalando recursos'
 sudo apt-get install screen; apt-get install unzip; apt-get install libc6-i386; apt-get install lib32stdc++6; apt-get install libncurses5:i386;
 
 echo 'Criando diretórios'
-sudo cd /home ; mkdir .lacserver; cd lacserver; 
+sudo cd /home ; mkdir lacserver; cd lacserver; 
 
 echo 'Baixando arquivos necessários'
 sudo wget https://dl.lacrimesonline.com/builds/LAC_v1.6.2/LAC_Linux_Server_v1.6.2.zip -O LAC_Linux_Server_v.1.6.2.zip
