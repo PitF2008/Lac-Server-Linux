@@ -1,6 +1,6 @@
 Primeiros Passos:
 
-|wget https://cdn.discordapp.com/attachments/793513101495762944/1052346982884196422/lacserver.sh
+|wget https://raw.githubusercontent.com/PitF2008/Lac-Server-Linux/main/lacserver.sh
 |chmod +x lacserver.sh
 |./lacserver.sh
 
