@@ -8,8 +8,6 @@ Caso For Fazer um video ou um tutorial usando o script por favor deixar os créd
 
 PitF - Admin Middle Servers
 
-Discord: PitF#0492
-
 -
 
 Middle Servers
