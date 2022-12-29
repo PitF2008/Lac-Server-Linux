@@ -9,13 +9,13 @@ sudo apt-get install screen; apt-get install unzip; apt-get install libc6-i386; 
 echo 'Criando diretórios'
 cd /home ; mkdir lacserver; cd lacserver; 
 
-echo 'Baixando arquivos necessários'
+echo 'Baixando Server 1.6.2'
 sudo wget https://dl.lacrimesonline.com/builds/LAC_v1.6.2/LAC_Linux_Server_v1.6.2.zip -O LAC_Linux_Server_v.1.6.2.zip
 
 echo 'Descompactando Arquivos'
 sudo unzip LAC_Linux_Server_v.1.6.2.zip;
 
-echo 'Ativando root'
+echo 'Autorizando'
 sudo chmod +x LAC_Linux_v1.6.2.x86_64; cd;
 
 echo 'Criando diretórios'
